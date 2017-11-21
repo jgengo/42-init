@@ -1,0 +1,5 @@
+on peut nmap 10.51.1.253 pour avoir des infos sur la machine ( avec -O on peut meme faire une detection d'OS si on est root de notre machine)
+
+sinon apparement on peut aussi faire de l'OS detection avec le ping : tuto ici : 
+http://www.kellyodonnell.com/content/determining-os-type-ping
+( a verifier ) 
