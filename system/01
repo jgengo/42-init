@@ -1,0 +1,5 @@
+cat /etc/debian_version
+
+ou encore 
+
+cat /etc/issue
