@@ -1,4 +1,4 @@
-# roger_skyline - 42 Project
+# init - 42 Project
 
 System and Network administrator initiation
 
