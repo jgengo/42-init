@@ -7,6 +7,6 @@ system and network, many services used on a server machines and some ideas of sc
 
 ----
 
-- [ ] Network
-- [ ] System
-- [ ] Scripting
+- [x] Network
+- [x] System
+- [x] Scripting
